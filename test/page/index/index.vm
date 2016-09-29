@@ -1,0 +1,2 @@
+<header-banner :title="abc"></header-banner>
+<second-header-banner></second-header-banner>
