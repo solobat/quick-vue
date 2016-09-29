@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "quick-vue:goto"
   },
-  "repository": "https://github.com/atom/quick-vue",
+  "repository": "https://github.com/solobat/quick-vue",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
