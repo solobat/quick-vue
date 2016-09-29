@@ -1,10 +1,9 @@
 {
   "name": "quick-vue",
   "main": "./lib/quick-vue",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Open Vue component file under cursor",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "quick-vue:goto"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
